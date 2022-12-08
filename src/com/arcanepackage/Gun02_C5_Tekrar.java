@@ -84,6 +84,7 @@ Quit the browser
             System.out.println("gercek ise:"+ actualurl);
         }
         driver.close();
+       // driver.quit();
     }
 
 }

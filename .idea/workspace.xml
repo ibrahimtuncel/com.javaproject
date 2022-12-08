@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a501c28b-9c7e-47ef-90dd-9b6abcd1ee02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.javaproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun01_C1_FirstSeleniumClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun01_C2_BasicNavigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C1_FirefoksBrowserDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C2_VerifyTitleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C3_VerifyURLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C4_GetPageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C5_Tekrar.java" afterDir="false" />
-    </list>
+    <list default="true" id="a501c28b-9c7e-47ef-90dd-9b6abcd1ee02" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
