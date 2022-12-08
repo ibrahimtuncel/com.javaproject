@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a501c28b-9c7e-47ef-90dd-9b6abcd1ee02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.javaproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun01_C1_FirstSeleniumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun01_C2_BasicNavigations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C1_FirefoksBrowserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C2_VerifyTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C3_VerifyURLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C4_GetPageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arcanepackage/Gun02_C5_Tekrar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IOfhT1udK3PYokyfmo9Fbt4REl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Documents/Selenium dependencies/libraries/selenium-java-4.7.0/selenium-support-4.7.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Gun02_C5_Tekrar">
+    <configuration name="Gun02_C1_FirefoksBrowserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcanepackage.Gun02_C1_FirefoksBrowserDemo" />
+      <module name="com.javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcanepackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun02_C2_VerifyTitleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcanepackage.Gun02_C2_VerifyTitleTest" />
+      <module name="com.javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcanepackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun02_C3_VerifyURLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcanepackage.Gun02_C3_VerifyURLTest" />
+      <module name="com.javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcanepackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun02_C4_GetPageSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcanepackage.Gun02_C4_GetPageSource" />
+      <module name="com.javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcanepackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun02_C5_Tekrar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcanepackage.Gun02_C5_Tekrar" />
+      <module name="com.javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcanepackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gun02_C5_Tekrar" />
+        <item itemvalue="Application.Gun02_C4_GetPageSource" />
+        <item itemvalue="Application.Gun02_C3_VerifyURLTest" />
+        <item itemvalue="Application.Gun02_C1_FirefoksBrowserDemo" />
+        <item itemvalue="Application.Gun02_C2_VerifyTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a501c28b-9c7e-47ef-90dd-9b6abcd1ee02" name="Changes" comment="" />
+      <created>1670057681846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670057681846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
